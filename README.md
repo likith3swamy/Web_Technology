@@ -10,7 +10,7 @@ d) Horizontal line<br>
 e) Line Break<br>
 f) Block Quote<br>
 g) Pre tag<br>
-h) Different Logical Style (<b>, <u>, <sub>, <sup> etc.)<br><hr>
+h) Different Logical Style (<b>, <u>, <sub>, </sub> etc.)<br><hr>
 2 Develop the HTML page named as “Table.html” to display your class time table.<br>
 a) Provide the title as Time Table with table header and table footer, row-span and col-span etc.<br>
 b) Provide various colour options to the cells (Highlight the lab hours and elective hours with different
